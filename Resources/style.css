@@ -70,6 +70,12 @@ button{
     flex-direction: row;
 }
 .TXT-Dark{color: #333;}
+
+#footer{
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+}
 @media (prefers-color-scheme: Dark) {
     html{
         background-color: #333;
