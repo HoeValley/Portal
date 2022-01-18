@@ -48,6 +48,9 @@ button{
     background-repeat: no-repeat;
     box-shadow: 0px 0px 4px #eee;
 }
+.card.tall{
+    height: 250px;
+}
 .card .cta{
     margin: 10px;
     width: 150px;
