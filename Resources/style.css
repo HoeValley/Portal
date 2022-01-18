@@ -51,6 +51,7 @@ button{
 }
 .card.tall{
     height: 250px;
+    padding-top: 150px;
 }
 .card .cta{
     margin: 10px;
@@ -60,7 +61,15 @@ button{
     margin: 10px;
     align-items: center;
 }
+.column{
+    display: flex;
+    flex-direction: column;
+}
 .BG-Grey{background-color: #444; color: #ccc;}
+.row{
+    display: flex;
+    flex-direction: row;
+}
 .TXT-Dark{color: #333;}
 @media (prefers-color-scheme: Dark) {
     html{
