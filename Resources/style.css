@@ -10,6 +10,7 @@ html{
     background-size: 40%;
     background-repeat: no-repeat;
     height: 100%;
+    width: 100%;
 }
 a{
     text-decoration: none;
@@ -91,12 +92,12 @@ button{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-    .row{ flex-direction: column;}
+    .row{ flex-direction: row;}
 } 
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-    .row{ flex-direction: row;}
+    .row{ flex-direction: column;}
 } 
 
 /* Large devices (laptops/desktops, 992px and up) */
