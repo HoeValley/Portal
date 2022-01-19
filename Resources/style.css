@@ -123,6 +123,7 @@ button{
     background-image: url('/Resources/HVS-front.png'); 
     background-size: 100%;
     background-position-x: right;
+    color: #fff;
 }
 .GoogleClassroom{
     background-image: url('/Resources/Google-Classroom.png'); 
