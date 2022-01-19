@@ -66,6 +66,10 @@ button{
     flex-direction: column;
 }
 .BG-Grey{background-color: #444; color: #ccc;}
+.notAvalible{
+    margin: 30%;
+    text-align: center;
+}
 .row{
     display: flex;
     flex-direction: row;
@@ -138,6 +142,7 @@ button{
 @media (prefers-color-scheme: Dark) {
     html{
         background-color: #333;
+        color: #999999;
         background-image: url('/Resources/HVS outline dark.png');
     }
     h1{ color: #fcfcfc;}
