@@ -121,7 +121,7 @@ button{
 }
 .HVS-Photo{
     background-image: url('/Resources/HVS-front.png'); 
-    background-size: 100%;
+    background-size: cover;
     background-position-x: right;
     color: #fff;
 }
