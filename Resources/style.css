@@ -161,6 +161,7 @@ button{
 .Childline{
     background-image: url('/Resources/childline.png');
     background-size: 100%;
+    background-color: #00A0D2;
 }
 .CEOP{
     background-image: url('/Resources/think-you-know.jpg');
