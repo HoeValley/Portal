@@ -158,7 +158,14 @@ button{
     background-color: #67A180;
     color: #fff;
 }
-
+.Childline{
+    background-image: url('/Resources/childline.png');
+    background-size: 100%;
+}
+.CEOP{
+    background-image: url('/Resources/think-you-know.jpg');
+    background-size: 100%;
+}
 @media (prefers-color-scheme: Dark) {
     html{
         background-color: #333;
