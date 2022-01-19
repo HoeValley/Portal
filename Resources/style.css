@@ -119,6 +119,11 @@ button{
     background-color: #fff; 
     color: #444;
 }
+.HVS-Photo{
+    background-image: url('/Resources/hvs-logo.png'); 
+    background-size: 100%;
+    background-position-x: right;
+}
 .GoogleClassroom{
     background-image: url('/Resources/Google-Classroom.png'); 
 }
