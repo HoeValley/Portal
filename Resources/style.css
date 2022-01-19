@@ -96,9 +96,7 @@ button{
     color: #ccc;
 }
 .GoogleClassroom{
-    background-image: url('/Resources/classroom.png'); 
-    background-size: 80px; 
-    background-position: 90% 80%;
+    background-image: url('/Resources/Google-Classroom.png'); 
 }
 .BehaviourWatch{
     background-image: url('/Resources/behaviourwatch_logo.png'); 
