@@ -18,12 +18,13 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
     color: #75ab38;
     font-weight: 100;
+    margin: 5px 0px;
 }
 h1{
     color: #555;
     font-size: 24px;
 }
-h2{font-size: 20px;}
+h2{ font-size: 20px;}
 button{
     background: #75ab38;
     color: #fff;
