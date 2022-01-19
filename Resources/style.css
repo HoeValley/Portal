@@ -66,6 +66,15 @@ button{
     flex-direction: column;
 }
 .BG-Grey{background-color: #444; color: #ccc;}
+.Logo{
+    float: left; 
+    margin-right: 10px;
+    background-image: url('/Resources/hvs-logo.png');
+    background-size: 80px;
+    background-repeat: no-repeat;
+    width: 80px;
+    height: 80px;
+}
 .notAvalible{
     margin: 30%;
     text-align: center;
