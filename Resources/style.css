@@ -73,7 +73,7 @@ button{
 .TXT-Dark{color: #333;}
 
 #footer{
-    position: relative;
+    position: fixed;
     bottom: 5px;
     text-align: center;
     font-size: 10px;
