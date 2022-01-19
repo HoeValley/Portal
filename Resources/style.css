@@ -72,9 +72,10 @@ button{
 .TXT-Dark{color: #333;}
 
 #footer{
-    position: absolute;
-    bottom: 0px;
+    position: relative;
+    bottom: 5px;
     text-align: center;
+    font-size: 10px;
 }
 @media (prefers-color-scheme: Dark) {
     html{
