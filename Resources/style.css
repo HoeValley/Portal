@@ -136,7 +136,7 @@ button{
     color: #fff;
 }
 .SIMS{
-    background-color: #0072bc; 
+    background-color: #0072bc !important; 
     color: #fff; 
     font-size: 14px; 
     background-image: url('/Resources/SIMS.png'); 
@@ -157,11 +157,11 @@ button{
 .Helpdesk{
     background-image: url('/Resources/helpdesk.png');
 }
-.ParentsEvening{
+.SchoolCloud{
     background-image: url('/Resources/SchoolCloud.png');
     background-size: 80px;
     background-position: 105% 150%;
-    background-color: #67A180;
+    background-color: #67A180 !important;
     color: #fff;
 }
 .Childline{
