@@ -57,6 +57,9 @@ button{
 .card.tall{
     padding-top: 150px;
 }
+.card.wide{
+    width: 100%;
+}
 .card .cta{
     margin: 10px;
     width: 150px;
