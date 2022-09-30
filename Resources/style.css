@@ -57,6 +57,7 @@ button{
 .card.small{
     width: 120px;
     border-radius: 2px;
+    background-size: 50px;
 }
 .card.tall{
     padding-top: 150px;
