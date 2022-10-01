@@ -56,8 +56,8 @@ button{
 }
 .card.small{
     width: 120px;
-    border-radius: 2px;
     background-size: 50px;
+    background-position: center;
 }
 .card.tall{
     padding-top: 150px;
@@ -115,7 +115,7 @@ button{
 .Meet{background-image: url('/Resources/Meet50.jpg');}
 .Maps{background-image: url('/Resources/Maps50.jpg');}
 .Contacts{background-image: url('/Resources/Contacts50.jpg');}
-.GoogleSearch{background-image: url('/Resources/Google50.jpg');}
+.GoogleSearch{background-image: url('/Resources/Google50.png');}
 .CPOMS{
     background-image: url('/Resources/CPOMS.png');
 }
