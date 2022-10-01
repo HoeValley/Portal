@@ -6,7 +6,7 @@ html{
     background-color: #f9f9f9;
     font-size: 14px;
     background-image: url('/Resources/HVS outline light.png');
-    background-position: 110%;
+    background-position: 110% 110%;
     background-size: 40%;
     background-repeat: no-repeat;
 }
@@ -85,6 +85,11 @@ button{
     flex-direction: column;
 }
 .BG-Grey{background-color: #444; color: #ccc;}
+#GoogleSearchTXT{
+    border-radius: 4px;
+    padding: 8px 4px;
+    border: 1px solid;
+}
 .Logo{
     float: left; 
     margin-right: 10px;
