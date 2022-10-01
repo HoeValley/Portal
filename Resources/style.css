@@ -58,7 +58,14 @@ button{
     width: 120px;
     background-size: 50px;
     background-position: center;
+    width: 70px;
+    border-radius: 40%;
+    background-size: 50px;
+    background-position: center;
+    margin-left: 50px;
+    min-height: 70px;
 }
+.card.small:first-child{ margin-left: 0px;}
 .card.tall{
     padding-top: 150px;
 }
@@ -116,6 +123,7 @@ button{
 .Maps{background-image: url('/Resources/Maps50.jpg');}
 .Contacts{background-image: url('/Resources/Contacts50.jpg');}
 .GoogleSearch{background-image: url('/Resources/Google50.png');}
+.HVS{background-image: url('/Resources/hvs-logo.png');}
 .CPOMS{
     background-image: url('/Resources/CPOMS.png');
 }
