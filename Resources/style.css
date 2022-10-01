@@ -138,6 +138,8 @@ button{
 }
 .HVS6th{
     background-image: url('/Resources/6thF_250.png');
+    background-size: contain;
+    background-position: center;
 }
 .HVS-Dark{
     background-image: url('/Resources/hvs-logo.png'); 
