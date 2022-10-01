@@ -114,14 +114,14 @@ button{
 }
 
 /* Branding */
-.Gmail{background-image: url('/Resources/Gmail50.jpg');}
-.Drive{background-image: url('/Resources/Drive50.jpg');}
-.Calendar{background-image: url('/Resources/Calendar50.jpg');}
-.Classroom{background-image: url('/Resources/Classroom50.jpg');}
-.Chat{background-image: url('/Resources/Chat50.jpg');}
-.Meet{background-image: url('/Resources/Meet50.jpg');}
-.Maps{background-image: url('/Resources/Maps50.jpg');}
-.Contacts{background-image: url('/Resources/Contacts50.jpg');}
+.Gmail{background-image: url('/Resources/Gmail50.png');}
+.Drive{background-image: url('/Resources/Drive50.png');}
+.Calendar{background-image: url('/Resources/Calendar50.png');}
+.Classroom{background-image: url('/Resources/Classroom50.png');}
+.Chat{background-image: url('/Resources/Chat50.png');}
+.Meet{background-image: url('/Resources/Meet50.png');}
+.Maps{background-image: url('/Resources/Maps50.png');}
+.Contacts{background-image: url('/Resources/Contacts50.png');}
 .GoogleSearch{background-image: url('/Resources/Google50.png');}
 .HVS{background-image: url('/Resources/hvs-logo.png');}
 .CPOMS{
