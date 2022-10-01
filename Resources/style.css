@@ -87,8 +87,9 @@ button{
 .BG-Grey{background-color: #444; color: #ccc;}
 #GoogleSearchTXT{
     border-radius: 4px;
-    padding: 8px 4px;
+    padding: 4px 10px;
     border: 1px solid;
+    background-color: #f4f4f4;
 }
 .Logo{
     float: left; 
@@ -215,6 +216,7 @@ button{
         background-color: #555;
         box-shadow: 0px 0px 4px #111;
     }
+    #GoogleSearchTXT{ background-color: #555; color: #fff}
 }
 
 /* Extra small devices (phones, 600px and down) */
