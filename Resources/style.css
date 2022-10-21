@@ -185,6 +185,13 @@ button{
     color: #fff !important; 
     background-position: 105% 150%;
 }
+.eLibrary{
+    background-image: url('/Resources/elibrary.png'); 
+    background-size: 100px; 
+    background-color: #2b6f00 !important; 
+    color: #fff !important; 
+    background-position: 105% 150%;
+}
 .ClassCharts{
     background-image: url('/Resources/Class-charts.png');
     background-position: 105% 150%;
