@@ -161,6 +161,11 @@ button{
     background-position-x: right;
     color: #fff;
 }
+.EduLink{
+    background-image: url('/Resources/EduLinkBackground.png');
+    background-size: cover;
+}
+.EduLink button{ background-color: #ecab39;}
 .GoogleClassroom{
     background-image: url('/Resources/Google-Classroom.png'); 
 }
