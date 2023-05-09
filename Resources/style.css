@@ -216,6 +216,7 @@ button{
 }
 .Helpdesk{
     background-image: url('/Resources/helpdesk.png');
+    color: red !important;
 }
 .SchoolCloud{
     background-image: url('/Resources/SchoolCloud.png');
