@@ -52,7 +52,7 @@ button{
     background-position: right center;
     background-size: cover;
     background-repeat: no-repeat;
-    box-shadow: 0px 0px 4px #eee;
+    box-shadow: rgba(76, 78, 100, 0.22) 0px 2px 10px 0px;
 }
 .card.small{
     width: 120px;
