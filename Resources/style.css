@@ -166,6 +166,12 @@ button{
     background-size: cover;
 }
 .EduLink button{ background-color: #ecab39;}
+.UniFrog{
+    background-color: #d5fbec;
+    background-image: url('/Resources/UniFrog.svg');
+    background-size: cover;
+}
+.UniFrog button{background-color: #ec3e80;}
 .GoogleClassroom{
     background-image: url('/Resources/Google-Classroom.png'); 
 }
