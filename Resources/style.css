@@ -167,12 +167,12 @@ button{
     padding-top: 100px !important;
     font-weight: 100;
     font-size: 25px;
-    color: #fff;
+    color: #fff !important;
     line-height: 55px;
 }
 .EduLink button{ background-color: #ecab39;}
 .UniFrog{
-    background-color: #d5fbec;
+    background-color: #d5fbec !important;
     background-image: url('/Resources/UniFrog.svg');
     background-size: cover;
 }
