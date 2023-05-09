@@ -164,6 +164,11 @@ button{
 .EduLink{
     background-image: url('/Resources/EduLinkBackground.png');
     background-size: cover;
+    padding-top: 100px !important;
+    font-weight: 100;
+    font-size: 25px;
+    color: #fff;
+    line-height: 50px;
 }
 .EduLink button{ background-color: #ecab39;}
 .UniFrog{
