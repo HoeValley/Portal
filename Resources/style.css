@@ -173,6 +173,7 @@ button{
 .EduLink button{ background-color: #ecab39;}
 .UniFrog{
     background-color: #d5fbec !important;
+    color: #ec3e80 !important;
     background-image: url('/Resources/UniFrog.svg');
     background-size: cover;
 }
