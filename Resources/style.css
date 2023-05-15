@@ -222,6 +222,8 @@ button{
     color: #fff;
     background-color: #3A8ED7;
     background-image: url('/Resources/PPlogo.png');
+    background-size: 20px;
+    background-position: bottom right;
 }
 .ParentPay button{
     background-color: #fff;
