@@ -60,7 +60,7 @@ button{
     background-position: center;
     width: 70px;
     border-radius: 40%;
-    background-size: 50px;
+    background-size: 40px;
     background-position: center;
     margin-left: 50px;
     min-height: 70px;
@@ -217,6 +217,15 @@ button{
 .Helpdesk{
     background-image: url('/Resources/helpdesk.png');
     color: red !important;
+}
+.ParentPay{
+    color: #fff;
+    background-color: #3A8ED7;
+    background-image: url('/Resources/PPlogo.png');
+}
+.ParentPay button{
+    background-color: #fff;
+    color: #3A8ED7;
 }
 .SchoolCloud{
     background-image: url('/Resources/SchoolCloud.png');
