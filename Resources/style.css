@@ -209,6 +209,9 @@ button{
     color: #333 !important; 
     background-position: 80% 80%;
 }
+.EAP button{
+    display: inline-flex;
+}
 .eLibrary{
     background-image: url('/Resources/elibrary.png'); 
     background-size: 100px; 
