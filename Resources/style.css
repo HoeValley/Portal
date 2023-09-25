@@ -203,7 +203,7 @@ button{
     background-position: 105% 150%;
 }
 .EAP{
-    padding-top: 20px !important;
+    padding-top: 50px !important;
     background-image: url('/Resources/EAP.png'); 
     background-size: 100px; 
     background-color: #fff !important; 
