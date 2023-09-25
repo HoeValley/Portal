@@ -203,14 +203,12 @@ button{
     background-position: 105% 150%;
 }
 .EAP{
+    padding-top: unset !important;
     background-image: url('/Resources/EAP.png'); 
     background-size: 100px; 
     background-color: #fff !important; 
     color: #333 !important; 
     background-position: 80% 80%;
-}
-.EAP button{
-    display: inline-flex;
 }
 .eLibrary{
     background-image: url('/Resources/elibrary.png'); 
