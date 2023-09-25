@@ -202,6 +202,13 @@ button{
     color: #fff !important; 
     background-position: 105% 150%;
 }
+.EAP{
+    background-image: url('/Resources/EAP.png'); 
+    background-size: 100px; 
+    background-color: #fff !important; 
+    color: #333 !important; 
+    background-position: 80% 80%;
+}
 .eLibrary{
     background-image: url('/Resources/elibrary.png'); 
     background-size: 100px; 
