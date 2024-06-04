@@ -164,7 +164,7 @@ button{
 .EduLink{
     background-image: url('/Resources/EduLinkBackground.png');
     background-size: cover;
-    padding-top: 100px !important;
+    padding-top: 125px !important;
     font-weight: 100;
     font-size: 25px;
     color: #fff !important;
@@ -201,6 +201,13 @@ button{
     background-color: #00AFD7 !important; 
     color: #fff !important; 
     background-position: 105% 150%;
+}
+.Forms{
+    background-image: url('/Resources/Forms.png'); 
+    background-size: 75px; 
+    background-color: #035806 !important; 
+    color: #fff !important; 
+    background-position: 100% 150%;
 }
 .EAP{
     padding-top: 50px !important;
