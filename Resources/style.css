@@ -74,7 +74,7 @@ button{
 }
 .card .cta{
     margin: 10px;
-    width: 150px;
+    width: 200px;
 }
 .card button{
     margin: 10px;
@@ -210,7 +210,7 @@ button{
     background-position: 100% 150%;
 }
 .EAP{
-    padding-top: 50px !important;
+    
     background-image: url('/Resources/EAP.png'); 
     background-size: 100px; 
     background-color: #fff !important; 
@@ -260,6 +260,14 @@ button{
     background-image: url('/Resources/think-you-know.jpg');
     background-size: 100%;
 }
+.BlueSky {
+    background-image: url('/Resources/BlueSky.png');
+    background-size: 30%;
+    background-color: #10a0dd !important;
+    background-position: 80% 50%;
+    color: #fff !important;
+}
+
 @media (prefers-color-scheme: Dark) {
     html{
         background-color: #333;
