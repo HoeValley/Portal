@@ -163,12 +163,8 @@ button{
 }
 .EduLink{
     background-image: url('/Resources/EduLinkBackground.png');
-    background-size: cover;
-    padding-top: 125px !important;
-    font-weight: 100;
-    font-size: 25px;
+    font-size: 14px;
     color: #fff !important;
-    line-height: 55px;
 }
 .EduLink button{ background-color: #ecab39;}
 .UniFrog{
@@ -193,7 +189,15 @@ button{
     color: #fff !important; 
     font-size: 14px; 
     background-image: url('/Resources/SIMS.png'); 
-    background-position: 80% 80%; background-size: 50%;
+    background-position: 80% 50%; background-size: 40%;
+}
+
+.Wellio{
+    background-color: #fff !important; 
+    color: #000 !important; 
+    font-size: 14px; 
+    background-image: url('/Resources/Wellio.png'); 
+    background-position: 80% 50%; background-size: 30%;
 }
 .LS-Classroom{
     background-image: url('/Resources/LS-Classroom.png'); 
