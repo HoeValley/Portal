@@ -270,6 +270,11 @@ button{
     background-image: url('/Resources/think-you-know.jpg');
     background-size: 100%;
 }
+.Papyrus{
+    background-image: url('/Resources/Papyrus.jpeg');
+    background-size: 100%;
+    background-color: #fff !important;
+}
 .BlueSky {
     background-image: url('/Resources/BlueSky.png');
     background-size: 30%;
