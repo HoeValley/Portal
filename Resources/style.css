@@ -67,7 +67,7 @@ button{
 }
 .card.small:first-child{ margin-left: 0px;}
 .card.tall{
-    padding-top: 150px;
+    min-height: 240px;
 }
 .card.wide{
     width: 100%;
@@ -79,6 +79,7 @@ button{
 .card button{
     margin: 10px;
     align-items: center;
+    cursor: pointer;
 }
 .column{
     display: flex;
@@ -218,6 +219,13 @@ button{
     background-color: #035806 !important; 
     color: #fff !important; 
     background-position: 100% 150%;
+}
+.Forms.tall{
+    background-image: url('/Resources/Forms.png'); 
+    background-size: 75px; 
+    background-color: #035806 !important; 
+    color: #fff !important; 
+    background-position: 100% 100%;
 }
 .EAP{
     
