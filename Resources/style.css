@@ -247,8 +247,8 @@ button{
     background-position: 105% 150%;
     background-size: 100px;
 }
-.Helpdesk{
-    background-image: url('/Resources/helpdesk.png');
+.Seneca{
+    background-image: url('/Resources/seneca.png');
     color: red !important;
 }
 .ParentPay{
